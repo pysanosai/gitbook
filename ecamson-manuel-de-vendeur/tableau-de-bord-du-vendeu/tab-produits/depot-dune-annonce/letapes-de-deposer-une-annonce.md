@@ -2,13 +2,13 @@
 
 **Titre**
 
-![](../../../../.gitbook/assets/image.png)\
+![](<../../../../.gitbook/assets/image (13).png>)\
 → Le nom clair du produit.\
 &#xNAN;_&#x45;x._ “Clavier mécanique RGB AZERTY – Switch Rouge”
 
 **Type de produit**
 
-<figure><img src="../../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * **Simple** : un seul prix/stock (le plus courant).
 * **Variable** : plusieurs versions (taille, couleur…).
@@ -17,38 +17,38 @@
 
 **Catégorie**
 
-<figure><img src="../../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 \
 → Le rayon où ton produit sera rangé. Choisis la plus précise.
 
 **Prix régulier**
 
-<figure><img src="../../../../.gitbook/assets/image (5).png" alt="" width="322"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (5) (1).png" alt="" width="322"><figcaption></figcaption></figure>
 
 → Le prix normal (TTC).
 
 **Prix réduit**
 
-<figure><img src="../../../../.gitbook/assets/image (6).png" alt="" width="340"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (6) (1).png" alt="" width="340"><figcaption></figcaption></figure>
 
 → Le prix promo (facultatif). Clique “Planifier” si tu veux des dates de promo.
 
 **Image du produit** (bloc à droite)
 
-<figure><img src="../../../../.gitbook/assets/image (8).png" alt="" width="362"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (8) (1).png" alt="" width="362"><figcaption></figcaption></figure>
 
 → Téléverse une belle photo principale (fond clair, net).
 
 **Marque** (si dispo)
 
-<figure><img src="../../../../.gitbook/assets/image (9).png" alt="" width="215"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (9) (1).png" alt="" width="215"><figcaption></figcaption></figure>
 
 → Sélectionne la marque du produit.
 
 **Étiquettes (tags)**
 
-<figure><img src="../../../../.gitbook/assets/image (10).png" alt="" width="204"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (10) (1).png" alt="" width="204"><figcaption></figcaption></figure>
 
 → Mots-clés utiles pour la recherche (ex. “gaming, RGB, USB-C”).
 
@@ -72,13 +72,13 @@
 
 **Référence produit (SKU)**
 
-<figure><img src="../../../../.gitbook/assets/image (11).png" alt="" width="239"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (11) (1).png" alt="" width="239"><figcaption></figcaption></figure>
 
 → Ton code unique (ex. CLV-RGB-R). Très pratique pour gérer en masse.
 
 **Statut du stock**
 
-<figure><img src="../../../../.gitbook/assets/image (12).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (12) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 * _In stock_ = en stock,
 * _Out of stock_ = rupture.
@@ -99,41 +99,66 @@
 
 ## 4) Expédition & taxes
 
-**Ce produit nécessite un envoi**\
+**Ce produit nécessite un envoi**
+
+<figure><img src="../../../../.gitbook/assets/image.png" alt="" width="351"><figcaption></figcaption></figure>
+
 → Laisse coché si c’est un objet physique.
 
-**Poids & dimensions**\
+**Poids & dimensions**
+
+<figure><img src="../../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
 → Utile pour calculer les frais de port.
 
-**Classe d’expédition** (si activée)\
+**Classe d’expédition** (si activée)
+
+<figure><img src="../../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
 → Sert à appliquer un tarif de livraison spécial.
 
 **Statut fiscal**
 
+<figure><img src="../../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
 * _Imposable_ (la TVA s’applique),
 * _Aucun_ (pas de taxes).
 
-**Classe d’impôt**\
+**Classe d’impôt**
+
+<figure><img src="../../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+
 → La règle de TVA à utiliser (le plus souvent _Standard_).
 
 ***
 
 ## 5) Produits liés (cross-sell / up-sell)
 
-**Upsells**\
+**Upsells**
+
+<figure><img src="../../../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+
 → Produits “mieux/plus chers” à suggérer (ex. version Pro).
 
-**Croisés**\
+**Croisés**
+
+<figure><img src="../../../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+
 → Produits complémentaires (ex. tapis de souris avec un clavier).
 
 ***
 
 ## 6) Attributs
 
+<figure><img src="../../../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+
 Pour les caractéristiques (et pour créer des **variations** si produit “Variable”).
 
 * Choisis “Attribut personnalisé” → **Ajouter un attribut**
 * Nom : “Couleur” | Valeurs : “Noir | Blanc” (séparées par |)
+
+<figure><img src="../../../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+
 * **Coche “Visible sur la page produit”**
 * Clique **Enregistrez l’attribut**
 
@@ -142,6 +167,8 @@ Pour les caractéristiques (et pour créer des **variations** si produit “Vari
 ***
 
 ## 7) Options RMA (retours)
+
+<figure><img src="../../../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
 
 * **Activer RMA** : règles de retour/garantie pour ce produit (ex. 14 jours).
 * **Sauvegarder comme valeur par défaut** : réutilise ces règles sur d’autres produits.
