@@ -13,7 +13,7 @@
     * [Tab Produits](ecamson-manuel-de-vendeur/tableau-de-bord-du-vendeu/tab-produits/README.md)
       * [Dépôt d’une annonce](ecamson-manuel-de-vendeur/tableau-de-bord-du-vendeu/tab-produits/depot-dune-annonce/README.md)
         * [L'Étapes De Déposer une annonce](ecamson-manuel-de-vendeur/tableau-de-bord-du-vendeu/tab-produits/depot-dune-annonce/letapes-de-deposer-une-annonce.md)
-        * [Étape 3 : Publier et vérifier l’annonce](ecamson-manuel-de-vendeur/tableau-de-bord-du-vendeu/tab-produits/depot-dune-annonce/etape-3-publier-et-verifier-lannonce.md)
+        * [Déposer une annonce avec variation](ecamson-manuel-de-vendeur/tableau-de-bord-du-vendeu/tab-produits/depot-dune-annonce/deposer-une-annonce-avec-variation.md)
     * [Menu principal : annonces, messages, profil, statistiques](ecamson-manuel-de-vendeur/tableau-de-bord-du-vendeu/menu-principal-annonces-messages-profil-statistiques.md)
   * [Gestion des annonces](ecamson-manuel-de-vendeur/gestion-des-annonces/README.md)
     * [Modifier une annonce](ecamson-manuel-de-vendeur/gestion-des-annonces/modifier-une-annonce.md)
