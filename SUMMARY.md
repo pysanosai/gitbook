@@ -19,6 +19,8 @@
     * [Modifier une annonce](ecamson-manuel-de-vendeur/gestion-des-annonces/modifier-une-annonce.md)
     * [Supprimer ou désactiver une annonce](ecamson-manuel-de-vendeur/gestion-des-annonces/supprimer-ou-desactiver-une-annonce.md)
     * [Voir les statistiques de vues et de contacts](ecamson-manuel-de-vendeur/gestion-des-annonces/voir-les-statistiques-de-vues-et-de-contacts.md)
+  * [Gestion du boutique](ecamson-manuel-de-vendeur/gestion-du-boutique/README.md)
+    * [Retour et Garantie](ecamson-manuel-de-vendeur/gestion-du-boutique/retour-et-garantie.md)
   * [Gestion des commandes](ecamson-manuel-de-vendeur/gestion-des-commandes/README.md)
     * [Réception d’une commande](ecamson-manuel-de-vendeur/gestion-des-commandes/reception-dune-commande.md)
     * [Statut de la commande](ecamson-manuel-de-vendeur/gestion-des-commandes/statut-de-la-commande.md)
@@ -35,3 +37,4 @@
     * [Optimiser ses annonces](ecamson-manuel-de-vendeur/bonnes-pratiques-et-conseils/optimiser-ses-annonces.md)
     * [Gérer la réputation vendeur](ecamson-manuel-de-vendeur/bonnes-pratiques-et-conseils/gerer-la-reputation-vendeur.md)
     * [Respecter les conditions générales d’utilisation](ecamson-manuel-de-vendeur/bonnes-pratiques-et-conseils/respecter-les-conditions-generales-dutilisation.md)
+    * [SEO du magasin](ecamson-manuel-de-vendeur/bonnes-pratiques-et-conseils/seo-du-magasin.md)
