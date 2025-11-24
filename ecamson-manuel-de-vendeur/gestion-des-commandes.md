@@ -2,14 +2,14 @@
 
 La gestion des commandes est une fonctionnalité essentielle du tableau de bord vendeur eCamson. Elle permet au vendeur de suivre l’ensemble des achats effectués dans sa boutique, de traiter les commandes, d’enregistrer les expéditions et de gérer les remboursements ou retours si nécessaire.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ## **1. Accéder à la liste des commandes**
 
 Dans le menu latéral du tableau de bord, cliquez sur **Commandes**.\
 Vous arrivez sur une page affichant toutes les commandes passées dans votre boutique.
 
-{% include "../../.gitbook/includes/untitled.md" %}
+{% include "../.gitbook/includes/untitled.md" %}
 
 L’interface présente :
 
@@ -26,7 +26,7 @@ L’interface présente :
 
 ## **2. Filtres disponibles**
 
-<figure><img src="../../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
 
 En haut de la page, plusieurs filtres permettent d’affiner la recherche :
 
@@ -61,7 +61,7 @@ Cette section est essentielle pour assurer un suivi professionnel des ventes et 
 
 ### **1. Informations principales de la commande**
 
-<figure><img src="../../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
 
 La partie supérieure affiche :
 
@@ -85,7 +85,7 @@ Sous les articles, les montants additionnels apparaissent :
 
 Sur le panneau de droite, le vendeur peut visualiser les informations globales de la commande :
 
-<figure><img src="../../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
 
 #### **a) État de la commande**
 
@@ -119,7 +119,7 @@ Une section claire et utile pour contacter le client en cas de besoin.
 
 Les notes permettent de communiquer directement avec le client ou de conserver des remarques internes.
 
-<figure><img src="../../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
 
 Deux types existent :
 
@@ -138,9 +138,9 @@ Ces notes apparaissent dans l’historique de la commande et aident à un suivi 
 
 ## **4. Expéditions**
 
-<figure><img src="../../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
 
 Si votre boutique gère les expéditions, cette section vous permet de :
 
@@ -154,7 +154,7 @@ Une notification e-mail automatique est envoyée au client dès que vous modifie
 
 ## **5. Adresses de facturation et de livraison**
 
-<figure><img src="../../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
 
 La commande affiche séparément :
 
@@ -167,7 +167,7 @@ Ces informations sont modifiables si le client vous signale une erreur avant l�
 
 ## **6. Autorisation de téléchargement de produit (si produit virtuel)**
 
-<figure><img src="../../.gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
 
 Si vous vendez un produit numérique :
 

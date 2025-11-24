@@ -1,2 +1,0 @@
-# Communication avec l’acheteur
-

@@ -1,2 +1,0 @@
-# Statut de la commande
-
