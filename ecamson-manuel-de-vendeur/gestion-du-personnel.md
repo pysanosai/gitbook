@@ -35,6 +35,25 @@ Une fois le formulaire complété, cliquez sur **Créer** pour ajouter le person
 
 
 
+## **E-mail envoyé au membre du personnel (IMPORTANT)**
+
+Après la création du personnel, **eCamson envoie automatiquement un e-mail** au nouvel employé avec :
+
+* Un lien de **création / configuration du mot de passe**
+* Son adresse e-mail utilisée comme identifiant
+* Un message de bienvenue (selon configuration)
+
+Ce processus sécurisé permet au collaborateur :
+
+✔ de choisir son propre mot de passe\
+✔ d’activer son compte\
+✔ d’accéder au tableau de bord selon les droits qui lui seront attribués
+
+⚠️ **Important :**\
+Le personnel ne pourra pas se connecter tant qu’il n’aura pas créé son mot de passe via le lien reçu.
+
+
+
 ## **Liste du Personnel**
 
 Une fois un employé créé, il apparaît dans la section **Personnel** (voir deuxième image).
