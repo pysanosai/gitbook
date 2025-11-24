@@ -36,13 +36,13 @@
 
 **Image du produit** (bloc à droite)
 
-<figure><img src="../../../../.gitbook/assets/image (8) (1) (1).png" alt="" width="362"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (8) (1) (1) (1).png" alt="" width="362"><figcaption></figcaption></figure>
 
 → Téléverse une belle photo principale (fond clair, net).
 
 **Marque** (si dispo)
 
-<figure><img src="../../../../.gitbook/assets/image (9) (1) (1).png" alt="" width="215"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (9) (1) (1) (1).png" alt="" width="215"><figcaption></figcaption></figure>
 
 → Sélectionne la marque du produit.
 
@@ -142,7 +142,7 @@
 
 **Croisés**
 
-<figure><img src="../../../../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (8) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 → Produits complémentaires (ex. tapis de souris avec un clavier).
 

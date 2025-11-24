@@ -66,8 +66,3 @@ Une **annonce “Produit variable”** = une seule fiche produit, **plusieurs ve
   * M/Noir → 19,90 €, stock 15, image noire
   * … (etc.)
 
-***
-
-### Check-list (30 s)
-
-*

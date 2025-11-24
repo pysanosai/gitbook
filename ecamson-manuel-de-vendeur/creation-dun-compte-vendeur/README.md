@@ -30,7 +30,7 @@ remplis le formulaire vendeur :
 
 ### **E-mail de bienvenue eCamson – Votre compte a bien été créé !**
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 Un message de confirmation affichant l’activation du compte, les liens pour définir le mot de passe et vérifier l’adresse e-mail, ainsi que l’accès à l’espace membre.
 

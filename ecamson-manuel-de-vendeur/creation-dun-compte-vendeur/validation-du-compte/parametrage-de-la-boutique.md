@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Paramétrage de la Boutique
 
 La configuration de la boutique est une étape essentielle pour présenter votre marque, renforcer votre crédibilité et optimiser vos ventes sur la marketplace **Ecamson**.\

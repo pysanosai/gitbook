@@ -26,7 +26,7 @@ Cela inclut généralement :
 * Documents requis (si applicable)
 * Paramètres bancaires ou de paiement
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 Un message peut également apparaître, par exemple :\
 &#xNAN;**"Ajouter un banner pour atteindre 15% de progrès"**
@@ -39,7 +39,7 @@ Cela signifie qu'il vous reste des éléments à compléter pour finaliser votre
 
 Afin que l’équipe **eCamson** puisse valider votre boutique, vous devez impérativement compléter l’ensemble des informations obligatoires. Cette étape garantit l’authenticité de votre magasin et permet l’activation de votre compte vendeur.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4).png" alt="" width="375"><figcaption></figcaption></figure>
 
 Pour que l’équipe Ecamson puisse valider votre boutique, assurez-vous d’avoir rempli :
 
@@ -55,7 +55,33 @@ Pour que l’équipe Ecamson puisse valider votre boutique, assurez-vous d’avo
 * Nom de la boutique
 * Logo de la boutique
 * Bannière (image d’entête)
-* Description de la boutique
+
+#### **Conditions Générales de la Boutique**
+
+Vous pouvez activer une option pour afficher vos conditions générales sur la page du magasin.
+
+👉 Cochez :\
+✔️ **Afficher les conditions générales sur la page du magasin**
+
+Cela renforce la transparence et la confiance des clients.
+
+#### **Biographie / Description de la Boutique**
+
+Une zone de texte vous permet d’écrire une présentation professionnelle :
+
+Vous pouvez y inclure :
+
+* L’histoire de votre marque
+* Votre spécialité ou domaine
+* Vos engagements qualité
+* Vos valeurs (ex : Made in France, éco-responsabilité)
+
+#### **Enregistrer les Modifications**
+
+Une fois tous les champs complétés, cliquez sur :\
+&#x20;**Mettre à Jour les Paramètres**
+
+Votre boutique sera immédiatement mise à jour sur la marketplace.
 
 
 
@@ -65,7 +91,7 @@ La validation des documents est une étape obligatoire pour activer votre compte
 
 > ⚠️ **Assurez-vous que vos documents sont lisibles et valides.**
 
-<figure><img src="../../.gitbook/assets/20251114-1039-33.5650782.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/20251114-1039-33.5650782.gif" alt=""><figcaption></figcaption></figure>
 
 #### **1. Accéder à la page de vérification**
 
@@ -107,7 +133,7 @@ Chaque document doit être **lisible**, **en bonne qualité**, **sans reflet** e
 
 ### **a) Preuve d’identité du vendeur**
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 Document permettant de vérifier l’identité du responsable de la boutique.
 
@@ -128,7 +154,7 @@ Procédure :
 
 ### **b) Preuve d’adresse professionnelle**
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 Permet de confirmer l’adresse officielle de l’entreprise.
 
@@ -143,7 +169,7 @@ Documents acceptés :
 
 ### **c) Registre de commerce (Extrait Kbis)**
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 Document officiel prouvant l'existence légale de votre entreprise.
 
@@ -162,7 +188,7 @@ Caractéristiques :
 
 ### **d) Avis de situation SIRENE**
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 Atteste de l’inscription de votre entreprise au répertoire SIRENE.
 

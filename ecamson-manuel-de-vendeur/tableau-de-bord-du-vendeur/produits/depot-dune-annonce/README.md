@@ -6,6 +6,6 @@ C’est **créer la fiche d’un produit** pour que les clients le voient et l�
 
 ## Avant de commencer (1 minute)
 
-* Aie **le nom du produit**, **le prix**, **le stock**.
+* **le nom du produit**, **le prix**, **le stock**.
 * Prépare **5 à 8 photos nettes** (fond clair, plusieurs angles).
 * Si possible : **poids/dimensions** et **numéro de référence (SKU)**.
