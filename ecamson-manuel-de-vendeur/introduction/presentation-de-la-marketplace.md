@@ -1,2 +1,0 @@
-# Présentation de la marketplace
-

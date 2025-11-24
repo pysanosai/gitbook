@@ -8,7 +8,7 @@
 
 **Type de produit**
 
-<figure><img src="../../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * **Simple** : un seul prix/stock (le plus courant).
 * **Variable** : plusieurs versions (taille, couleur…).
@@ -17,20 +17,20 @@
 
 **Catégorie**
 
-<figure><img src="../../../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 \
 → Le rayon où ton produit sera rangé. Choisis la plus précise.
 
 **Prix régulier**
 
-<figure><img src="../../../../.gitbook/assets/image (5) (1) (1).png" alt="" width="322"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (5) (1) (1) (1).png" alt="" width="322"><figcaption></figcaption></figure>
 
 → Le prix normal (TTC).
 
 **Prix réduit**
 
-<figure><img src="../../../../.gitbook/assets/image (6) (1) (1).png" alt="" width="340"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (6) (1) (1) (1).png" alt="" width="340"><figcaption></figcaption></figure>
 
 → Le prix promo (facultatif). Clique “Planifier” si tu veux des dates de promo.
 
@@ -107,26 +107,26 @@
 
 **Poids & dimensions**
 
-<figure><img src="../../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 → Utile pour calculer les frais de port.
 
 **Classe d’expédition** (si activée)
 
-<figure><img src="../../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 → Sert à appliquer un tarif de livraison spécial.
 
 **Statut fiscal**
 
-<figure><img src="../../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * _Imposable_ (la TVA s’applique),
 * _Aucun_ (pas de taxes).
 
 **Classe d’impôt**
 
-<figure><img src="../../../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 → La règle de TVA à utiliser (le plus souvent _Standard_).
 

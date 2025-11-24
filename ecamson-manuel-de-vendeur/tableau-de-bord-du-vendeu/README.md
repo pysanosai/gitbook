@@ -13,8 +13,7 @@
   * **Ventes nettes** (évolution) et **Commandes** (volume) avec comparaison “Mois en cours vs Année précédente”.
 *   **Important** : ici on **ne peut pas exporter**. Les exports & vues avancées se font dans **Rapports détaillés** (on le traitera dans sa section Finance/Reporting).\
     \
-    \
-
+    <br>
 
     <div align="center"><figure><img src="../../.gitbook/assets/image (18).png" alt="" width="192"><figcaption></figcaption></figure></div>
 

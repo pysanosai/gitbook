@@ -3,6 +3,7 @@ description: >-
   La vérification des documents est une étape obligatoire permettant
   d’authentifier votre entreprise et de sécuriser les transactions sur la
   marketplace Ecamson. Tous les documents transmis doivent être
+hidden: true
 ---
 
 # Vérification des Documents Requis
