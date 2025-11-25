@@ -16,7 +16,6 @@
         * [Déposer une annonce avec variation](ecamson-manuel-de-vendeur/gestion-des-annonces/produits/depot-dune-annonce/deposer-une-annonce-avec-variation.md)
     * [Modifier une annonce](ecamson-manuel-de-vendeur/gestion-des-annonces/modifier-une-annonce.md)
     * [Supprimer ou désactiver une annonce](ecamson-manuel-de-vendeur/gestion-des-annonces/supprimer-ou-desactiver-une-annonce.md)
-    * [Voir les statistiques de vues et de contacts](ecamson-manuel-de-vendeur/gestion-des-annonces/voir-les-statistiques-de-vues-et-de-contacts.md)
   * [Gestion des commandes](ecamson-manuel-de-vendeur/gestion-des-commandes.md)
   * [Gestion du Personnel](ecamson-manuel-de-vendeur/gestion-du-personnel.md)
   * [Paiement et facturation](ecamson-manuel-de-vendeur/paiement-et-facturation/README.md)
